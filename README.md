@@ -22,4 +22,4 @@ https://docs.google.com/spreadsheets/d/1KT4QQAQmU47poaMwPume3btWniNGLBXtEwBE546T
 ## Screenshot of Load & Stress Test Strategy Report
 ![Load Test](https://user-images.githubusercontent.com/50767962/215772916-5fcbfdbe-e939-4804-9552-956fdb513f5a.PNG)
 
-![Stress_Test](https://user-images.githubusercontent.com/50767962/215775311-55b4b120-9670-4dca-a09e-ee562582dec0.PNG)
+![Stress_Test](https://user-images.githubusercontent.com/50767962/215775311-55b4b120-9670-4dca-a09e-ee562582dec0.PNG | width=100)
